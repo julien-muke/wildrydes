@@ -14,15 +14,17 @@ It's really a great app for tying together a bunch of different services in AWS 
 ![Screenshot](/images/aws_archi.PNG)
 
 
-![Screenshot](/images/img_1.png)
+![Screenshot](/images/aws_img_01.jpg)
 
 ### [🌐 LIVE SITE](https://master.d3rj3myz3ltnf7.amplifyapp.com/)
 
 
-What do we need:
+Features:
 
-- A way to create/host a webpage
-- A way to involke the math functionality
-- A way to do some math
-- Somewhere to store/return the math result
-- A way to handle permissions
+- A way to store/update/pull code
+- A way to handle permissions for code
+- A place to host website and make updates
+- A way for users to register and log in
+- A way to do ride sharing functionality
+- Somewhere to store/return ride results
+- A way to invoke ride sharing functionality
