@@ -1,4 +1,4 @@
-## AWS Project - Build a Full End-to-End Web Application with 7 Services
+## AWS Project - Build a Full End-to-End Web Application with 7 AWS Services
 
 Build a ride sharing app (for unicorns!), pulling from the AWS Wild Rydes sample project.  I used seven different AWS  services: CodeCommit, Amplify, Cognito, Lambda, IAM, API Gateway and DynamoDB. 
 
