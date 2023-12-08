@@ -28,3 +28,18 @@ Features:
 - A way to do ride sharing functionality
 - Somewhere to store/return ride results
 - A way to invoke ride sharing functionality
+
+
+## Source Code
+
+This is an AWS sample project, all of the code is available for download.
+
+Command to copy code from AWS’s S3 bucket (from CloudShell command line): 
+
+```bash
+    aws s3 cp s3://wildrydes-[your_region_name, like us-west-2]/WebApplication/1_StaticWebHosting/website ./ --recursive
+```
+
+## Cost
+All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  However, charges will incur at some point so it's recommended that you shut down resources after completing this tutorial.
+
