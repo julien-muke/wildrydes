@@ -21,13 +21,13 @@ It's really a great app for tying together a bunch of different services in AWS 
 
 Features:
 
-- A way to store/update/pull code
-- A way to handle permissions for code
-- A place to host website and make updates
-- A way for users to register and log in
-- A way to do ride sharing functionality
+- Store/update/pull code
+- Handle permissions for code
+- Host website and make updates
+- Users to register and log in
+- Do ride sharing functionality
 - Somewhere to store/return ride results
-- A way to invoke ride sharing functionality
+- Invoke ride sharing functionality
 
 
 ## Source Code
